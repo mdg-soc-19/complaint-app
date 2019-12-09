@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Complaint App</string>
+    <string name="manager">MANAGER</string>
+    <string name="student">STUDENT</string>
+    <string name="Personal">PERSONAL</string>
+    <string name="other">OTHER</string>
+</resources>
